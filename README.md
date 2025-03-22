@@ -30,5 +30,5 @@ To run the app on your local machine:
 
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/shinny-project.git
+git clone https://github.com/MK3685/shinny-project.git
 cd shinny-project
